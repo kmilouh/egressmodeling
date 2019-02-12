@@ -631,6 +631,8 @@ escogen una salida u otra, mientras más personas escogen una salida mayor fraga
 
 Camilo A. Monreal
 
+Código [https://github.com/kmilouh/egressmodeling](https://github.com/kmilouh/egressmodeling)
+
 Asignatura MCVA(Métodos Computacionales en Vida Artificial) impartida por Dr. Agustín Riscos Núñez del Máster Universitario en Lógica, Computación e Inteligencia Artificial.
 @#$#@#$#@
 default
